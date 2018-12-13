@@ -1,2 +1,0 @@
-# Auden
-Loan project
